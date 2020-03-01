@@ -7,7 +7,7 @@ Swift Extenstion Collection for String Class in UKKit, which is I made it and us
 
 ## Methods
 
-**getRangeParsed **
+**getRangeParsed**
 
 ```swift
 let sampleText = "'abcd'efg'hijkl'mnopqrst'uvwx'yz"
